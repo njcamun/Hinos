@@ -1,0 +1,63 @@
+name: harpa_crista_angolana
+description: "Aplicação de Hinário Angolano Popular com suporte offline e dicionário."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  
+  # State Management
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+
+  # Database (Drift)
+  drift: ^2.0.0
+  drift_flutter: ^0.2.7
+  sqlite3_flutter_libs: ^0.5.0
+  path: ^1.8.3
+  path_provider: ^2.1.2
+  synchronized: ^3.0.0
+
+  # Audio & Network
+  just_audio: ^0.9.36
+  just_audio_background: ^0.0.1-beta.13
+  dio: ^5.4.0
+  
+  # Utils
+  shared_preferences: ^2.2.2
+  json_annotation: ^4.8.1
+  collection: ^1.18.0
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  
+  # Code Generation
+  build_runner: ^2.4.8
+  drift_dev: ^2.0.0
+  riverpod_generator: ^2.4.0
+  json_serializable: ^6.7.1
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/hinos.json
+    - assets/data/dicionario.json
+    - assets/images/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 24

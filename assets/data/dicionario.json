@@ -1,0 +1,2123 @@
+[
+    {
+        "exemplo_uso": "Onji yange kwenda kuli?  Onde está a minha água?",
+        "explicacao": "onji = água (para beber, cozinhar).",
+        "id": 1,
+        "idioma": "Umbundu",
+        "palavra": "onji [ón-ji]"
+    },
+    {
+        "exemplo_uso": "Omwenyo wange okuti?  Como está a minha alegria?",
+        "explicacao": "omwenyo = alegria, contentamento.",
+        "id": 2,
+        "idioma": "Umbundu",
+        "palavra": "omwenyo [om-wén-yo]"
+    },
+    {
+        "exemplo_uso": "Omenhu umwe olandele umoka.  Uma pessoa saiu cedo.",
+        "explicacao": "omenhu = pessoa, ser humano.",
+        "id": 3,
+        "idioma": "Umbundu",
+        "palavra": "omenhu [o-mén-hu]"
+    },
+    {
+        "exemplo_uso": "Omukaya wane welela.  A minha criança chorou.",
+        "explicacao": "omukaya = criança, filho(a).",
+        "id": 4,
+        "idioma": "Umbundu",
+        "palavra": "omukaya [o-mu-ká-ya]"
+    },
+    {
+        "exemplo_uso": "Olombe oyo okuti?  Quem é essa mulher?",
+        "explicacao": "olombe = mulher.",
+        "id": 5,
+        "idioma": "Umbundu",
+        "palavra": "olombe [o-lóm-be]"
+    },
+    {
+        "exemplo_uso": "Twali okukwena omu kisonge.  Íamos dormir cedo.",
+        "explicacao": "okukwena = dormir.",
+        "id": 6,
+        "idioma": "Umbundu",
+        "palavra": "okukwena [o-ku-kwé-na]"
+    },
+    {
+        "exemplo_uso": "Ndi okaya ombanda.  Eu estou trabalhando no campo.",
+        "explicacao": "okaya = trabalhar.",
+        "id": 7,
+        "idioma": "Umbundu",
+        "palavra": "okaya [o-ká-ya]"
+    },
+    {
+        "exemplo_uso": "Ovyungu vaci va okuja.  Meus amigos vão chegar.",
+        "explicacao": "ovyungu = amigos, companheiros.",
+        "id": 8,
+        "idioma": "Umbundu",
+        "palavra": "ovyungu [o-vyún-gu]"
+    },
+    {
+        "exemplo_uso": "Epundu yali lyokufi.  A cabeça está doente.",
+        "explicacao": "epundu = cabeça.",
+        "id": 9,
+        "idioma": "Umbundu",
+        "palavra": "epundu [e-pún-du]"
+    },
+    {
+        "exemplo_uso": "Etosha lyandi lyetoka.  A minha comida está pronta.",
+        "explicacao": "etosha = comida, refeição.",
+        "id": 10,
+        "idioma": "Umbundu",
+        "palavra": "etosha [e-tó-sha]"
+    },
+    {
+        "exemplo_uso": "Omwenyo wange okuti?  Como está a minha alegria?",
+        "explicacao": "omwenyo = alegria, contentamento.",
+        "id": 11,
+        "idioma": "Umbundu",
+        "palavra": "omwenyo [om-wén-yo]"
+    },
+    {
+        "exemplo_uso": "Omenhu umwe olandele umoka.  Uma pessoa saiu cedo.",
+        "explicacao": "omenhu = pessoa, ser humano.",
+        "id": 12,
+        "idioma": "Umbundu",
+        "palavra": "omenhu [o-mén-hu]"
+    },
+    {
+        "exemplo_uso": "Omukaya wane welela.  A minha criança chorou.",
+        "explicacao": "omukaya = criança, filho(a).",
+        "id": 13,
+        "idioma": "Umbundu",
+        "palavra": "omukaya [o-mu-ká-ya]"
+    },
+    {
+        "exemplo_uso": "Olombe oyo okuti?  Quem é essa mulher?",
+        "explicacao": "olombe = mulher.",
+        "id": 14,
+        "idioma": "Umbundu",
+        "palavra": "olombe [o-lóm-be]"
+    },
+    {
+        "exemplo_uso": "Twali okukwena omu kisonge.  Íamos dormir cedo.",
+        "explicacao": "okukwena = dormir.",
+        "id": 15,
+        "idioma": "Umbundu",
+        "palavra": "okukwena [o-ku-kwé-na]"
+    },
+    {
+        "exemplo_uso": "Ndi okaya ombanda.  Eu estou trabalhando no campo.",
+        "explicacao": "okaya = trabalhar.",
+        "id": 16,
+        "idioma": "Umbundu",
+        "palavra": "okaya [o-ká-ya]"
+    },
+    {
+        "exemplo_uso": "Ovyungu vaci va okuja.  Meus amigos vão chegar.",
+        "explicacao": "ovyungu = amigos, companheiros.",
+        "id": 17,
+        "idioma": "Umbundu",
+        "palavra": "ovyungu [o-vyún-gu]"
+    },
+    {
+        "exemplo_uso": "Epundu yali lyokufi.  A cabeça está doente.",
+        "explicacao": "epundu = cabeça.",
+        "id": 18,
+        "idioma": "Umbundu",
+        "palavra": "epundu [e-pún-du]"
+    },
+    {
+        "exemplo_uso": "Etosha lyandi lyetoka.  A minha comida está pronta.",
+        "explicacao": "etosha = comida, refeição.",
+        "id": 19,
+        "idioma": "Umbundu",
+        "palavra": "etosha [e-tó-sha]"
+    },
+    {
+        "exemplo_uso": "Onji yange kwenda kuli?  Onde está a minha água?",
+        "explicacao": "onji = água (para beber, cozinhar).",
+        "id": 20,
+        "idioma": "Umbundu",
+        "palavra": "onji [ón-ji]"
+    },
+    {
+        "exemplo_uso": "Omwenyo wange okuti?  Como está a minha alegria?",
+        "explicacao": "omwenyo = alegria, contentamento.",
+        "id": 21,
+        "idioma": "Umbundu",
+        "palavra": "omwenyo [om-wén-yo]"
+    },
+    {
+        "exemplo_uso": "Omenhu umwe olandele umoka.  Uma pessoa saiu cedo.",
+        "explicacao": "omenhu = pessoa, ser humano.",
+        "id": 22,
+        "idioma": "Umbundu",
+        "palavra": "omenhu [o-mén-hu]"
+    },
+    {
+        "exemplo_uso": "Omukaya wane welela.  A minha criança chorou.",
+        "explicacao": "omukaya = criança, filho(a).",
+        "id": 23,
+        "idioma": "Umbundu",
+        "palavra": "omukaya [o-mu-ká-ya]"
+    },
+    {
+        "exemplo_uso": "Olombe oyo okuti?  Quem é essa mulher?",
+        "explicacao": "olombe = mulher.",
+        "id": 24,
+        "idioma": "Umbundu",
+        "palavra": "olombe [o-lóm-be]"
+    },
+    {
+        "exemplo_uso": "Twali okukwena omu kisonge.  Íamos dormir cedo.",
+        "explicacao": "okukwena = dormir.",
+        "id": 25,
+        "idioma": "Umbundu",
+        "palavra": "okukwena [o-ku-kwé-na]"
+    },
+    {
+        "exemplo_uso": "Ndi okaya ombanda.  Eu estou trabalhando no campo.",
+        "explicacao": "okaya = trabalhar.",
+        "id": 26,
+        "idioma": "Umbundu",
+        "palavra": "okaya [o-ká-ya]"
+    },
+    {
+        "exemplo_uso": "Ovyungu vaci va okuja.  Meus amigos vão chegar.",
+        "explicacao": "ovyungu = amigos, companheiros.",
+        "id": 27,
+        "idioma": "Umbundu",
+        "palavra": "ovyungu [o-vyún-gu]"
+    },
+    {
+        "exemplo_uso": "Epundu yali lyokufi.  A cabeça está doente.",
+        "explicacao": "epundu = cabeça.",
+        "id": 28,
+        "idioma": "Umbundu",
+        "palavra": "epundu [e-pún-du]"
+    },
+    {
+        "exemplo_uso": "Etosha lyandi lyetoka.  A minha comida está pronta.",
+        "explicacao": "etosha = comida, refeição.",
+        "id": 29,
+        "idioma": "Umbundu",
+        "palavra": "etosha [e-tó-sha]"
+    },
+    {
+        "exemplo_uso": "Mayi yole?  Você tem água?",
+        "explicacao": "mayi = água.",
+        "id": 30,
+        "idioma": "Kimbundu",
+        "palavra": "mayi [má-yi]"
+    },
+    {
+        "exemplo_uso": "Muínga yi kinsaku.  A casa é grande.",
+        "explicacao": "muínga = casa, lar.",
+        "id": 31,
+        "idioma": "Kimbundu",
+        "palavra": "muínga [mu-ín-ga]"
+    },
+    {
+        "exemplo_uso": "Ndengue wange welela.  A minha criança chorou.",
+        "explicacao": "ndengue = o mais novo; criança, filho(a).",
+        "id": 32,
+        "idioma": "Kimbundu",
+        "palavra": "ndengue [n-den-gué]"
+    },
+    {
+        "exemplo_uso": "Wawa moxi?  Você está bem?",
+        "explicacao": "wawa = bom, bem.",
+        "id": 33,
+        "idioma": "Kimbundu",
+        "palavra": "wawa [wá-wa]"
+    },
+    {
+        "exemplo_uso": "Nge zola mu.  Eu amo você.",
+        "explicacao": "zola = amar, amor.",
+        "id": 34,
+        "idioma": "Kimbundu",
+        "palavra": "zola [zó-la]"
+    },
+    {
+        "exemplo_uso": "Kala ndeku.  Come comida.",
+        "explicacao": "kala = comer.",
+        "id": 35,
+        "idioma": "Kimbundu",
+        "palavra": "kala [ká-la]"
+    },
+    {
+        "exemplo_uso": "Sambila mu Kimbundu.  Fala em kimbundu.",
+        "explicacao": "sambila = falar, dizer.",
+        "id": 36,
+        "idioma": "Kimbundu",
+        "palavra": "sambila [sam-bí-la]"
+    },
+    {
+        "exemplo_uso": "Nga kupapatia luzingu.  Eu te ajudo amanhã.",
+        "explicacao": "kupapatia = ajudar.",
+        "id": 37,
+        "idioma": "Kimbundu",
+        "palavra": "kupapatia [ku-pa-pa-tí-a]"
+    },
+    {
+        "exemplo_uso": "Undi yonje?  Para onde você vai?",
+        "explicacao": "undi = ir, deslocar-se para.",
+        "id": 38,
+        "idioma": "Kimbundu",
+        "palavra": "undi [ún-di]"
+    },
+    {
+        "exemplo_uso": "Ngolo yange yikula.  A minha força cresceu.",
+        "explicacao": "ngolo = força, poder.",
+        "id": 39,
+        "idioma": "Kimbundu",
+        "palavra": "ngolo [n-gó-lo]"
+    },
+    {
+        "exemplo_uso": "Mbote mingi!  Olá (muito)!",
+        "explicacao": "mbote = saudação comum (oi, olá).",
+        "id": 40,
+        "idioma": "Kikongo",
+        "palavra": "mbote [m-bo-té]"
+    },
+    {
+        "exemplo_uso": "Mama yandi kele muoyo.  A minha mãe está viva.",
+        "explicacao": "mama = mãe.",
+        "id": 41,
+        "idioma": "Kikongo",
+        "palavra": "mama [má-ma]"
+    },
+    {
+        "exemplo_uso": "Tata yange kele fwana.  O meu pai é trabalhador.",
+        "explicacao": "tata = pai.",
+        "id": 42,
+        "idioma": "Kikongo",
+        "palavra": "tata [tá-ta]"
+    },
+    {
+        "exemplo_uso": "Muntu yina kele mutindu.  Essa pessoa é inteligente.",
+        "explicacao": "muntu = pessoa, ser humano.",
+        "id": 43,
+        "idioma": "Kikongo",
+        "palavra": "muntu [mún-tu]"
+    },
+    {
+        "exemplo_uso": "Nge vanda buku.  Eu tenho um livro.",
+        "explicacao": "buku = livro.",
+        "id": 44,
+        "idioma": "Kikongo",
+        "palavra": "buku [bú-ku]"
+    },
+    {
+        "exemplo_uso": "Luzolo kele mvimba.  O amor é forte.",
+        "explicacao": "luzolo = amor.",
+        "id": 45,
+        "idioma": "Kikongo",
+        "palavra": "luzolo [lu-zó-lo]"
+    },
+    {
+        "exemplo_uso": "Sala mbiako.  Trabalho duro.",
+        "explicacao": "sala = trabalho.",
+        "id": 46,
+        "idioma": "Kikongo",
+        "palavra": "sala [sá-la]"
+    },
+    {
+        "exemplo_uso": "Yina nge ke José.  Meu nome é José.",
+        "explicacao": "yina = nome.",
+        "id": 47,
+        "idioma": "Kikongo",
+        "palavra": "yina [yí-na]"
+    },
+    {
+        "exemplo_uso": "Nzila yina ke kulomba.  O caminho é orar.",
+        "explicacao": "nzila = caminho, via.",
+        "id": 48,
+        "idioma": "Kikongo",
+        "palavra": "nzila [n-zi-lá]"
+    },
+    {
+        "exemplo_uso": "Zaba kiese.  Sabe bastante.",
+        "explicacao": "zaba = saber, conhecer.",
+        "id": 49,
+        "idioma": "Kikongo",
+        "palavra": "zaba [zá-ba]"
+    },
+    {
+        "exemplo_uso": "Mwana wane kele kuseba.  O meu filho está dormindo.",
+        "explicacao": "mwana = criança, filho(a).",
+        "id": 50,
+        "idioma": "Nganguela",
+        "palavra": "mwana [mwa-ná]"
+    },
+    {
+        "exemplo_uso": "Mama yange kele kuanda.  A minha mãe está trabalhando.",
+        "explicacao": "mama = mãe.",
+        "id": 51,
+        "idioma": "Nganguela",
+        "palavra": "mama [má-ma]"
+    },
+    {
+        "exemplo_uso": "Tata yange kele mueto.  O meu pai está em casa.",
+        "explicacao": "tata = pai.",
+        "id": 52,
+        "idioma": "Nganguela",
+        "palavra": "tata [tá-ta]"
+    },
+    {
+        "exemplo_uso": "Nganda yange yikula.  A minha casa está grande.",
+        "explicacao": "nganda = casa.",
+        "id": 53,
+        "idioma": "Nganguela",
+        "palavra": "nganda [n-gan-dá]"
+    },
+    {
+        "exemplo_uso": "Monda yandi etoka.  A água saiu.",
+        "explicacao": "monda = água.",
+        "id": 54,
+        "idioma": "Nganguela",
+        "palavra": "monda [mon-dá]"
+    },
+    {
+        "exemplo_uso": "Kalunga yankwene.  O rio é largo.",
+        "explicacao": "kalunga = rio, grande massa de água.",
+        "id": 55,
+        "idioma": "Nganguela",
+        "palavra": "kalunga [ka-lún-ga]"
+    },
+    {
+        "exemplo_uso": "Luvulu yikula.  A chuva está forte.",
+        "explicacao": "luvulu = chuva.",
+        "id": 56,
+        "idioma": "Nganguela",
+        "palavra": "luvulu [lu-vú-lu]"
+    },
+    {
+        "exemplo_uso": "Lukanda yange kele mbongo.  O meu livro é caro.",
+        "explicacao": "lukanda = livro, escrito.",
+        "id": 57,
+        "idioma": "Nganguela",
+        "palavra": "lukanda [lu-kan-dá]"
+    },
+    {
+        "exemplo_uso": "Tu lulima mu campo.  Nós trabalhamos no campo.",
+        "explicacao": "lulima = trabalhar.",
+        "id": 58,
+        "idioma": "Nganguela",
+        "palavra": "lulima [lu-lí-ma]"
+    },
+    {
+        "exemplo_uso": "Nge luzola ngeke.  Eu te amo muito.",
+        "explicacao": "luzola = amar, amor intenso.",
+        "id": 59,
+        "idioma": "Nganguela",
+        "palavra": "luzola [lu-zó-la]"
+    },
+    {
+        "exemplo_uso": "Omposi waluva?  O dia amanheceu?",
+        "explicacao": "omposi = dia.",
+        "id": 60,
+        "idioma": "Umbundu",
+        "palavra": "omposi [om-pó-si]"
+    },
+    {
+        "exemplo_uso": "Omwenje lyetu lyapa.  Nossa noite passou.",
+        "explicacao": "omwenje = noite.",
+        "id": 61,
+        "idioma": "Umbundu",
+        "palavra": "omwenje [om-wén-je]"
+    },
+    {
+        "exemplo_uso": "Ndi okunwa onji?  Eu bebo água?",
+        "explicacao": "okunwa = beber.",
+        "id": 62,
+        "idioma": "Umbundu",
+        "palavra": "okunwa [o-ku-nwá]"
+    },
+    {
+        "exemplo_uso": "Ndi okutambula okulombela.  Eu ando lentamente.",
+        "explicacao": "okutambula = andar, caminhar.",
+        "id": 63,
+        "idioma": "Umbundu",
+        "palavra": "okutambula [o-ku-tam-bu-lá]"
+    },
+    {
+        "exemplo_uso": "Ndi okuja omuhanu.  Eu chego cedo.",
+        "explicacao": "okuja = chegar.",
+        "id": 64,
+        "idioma": "Umbundu",
+        "palavra": "okuja [o-ku-já]"
+    },
+    {
+        "exemplo_uso": "Ndi okuyana okulume.  Eu corro rapidamente.",
+        "explicacao": "okuyana = correr.",
+        "id": 65,
+        "idioma": "Umbundu",
+        "palavra": "okuyana [o-ku-ya-ná]"
+    },
+    {
+        "exemplo_uso": "Ombasi yange yikese.  Minha vila é bonita.",
+        "explicacao": "ombasi = aldeia, vila.",
+        "id": 66,
+        "idioma": "Umbundu",
+        "palavra": "ombasi [om-bá-si]"
+    },
+    {
+        "exemplo_uso": "Omudeku wande wetele.  Meu mercado está aberto.",
+        "explicacao": "omudeku = mercado.",
+        "id": 67,
+        "idioma": "Umbundu",
+        "palavra": "omudeku [o-mu-dé-ku]"
+    },
+    {
+        "exemplo_uso": "Ombingangu wange uvavi.  Meu coração dói.",
+        "explicacao": "ombingangu = coração.",
+        "id": 68,
+        "idioma": "Umbundu",
+        "palavra": "ombingangu [om-bin-gán-gu]"
+    },
+    {
+        "exemplo_uso": "Omfuma wange wukala.  Minha fonte secou.",
+        "explicacao": "omfuma = fonte, nascente.",
+        "id": 69,
+        "idioma": "Umbundu",
+        "palavra": "omfuma [om-fú-ma]"
+    },
+    {
+        "exemplo_uso": "Ndako yange yilia.  Minha casa é grande.",
+        "explicacao": "ndako = casa.",
+        "id": 70,
+        "idioma": "Kimbundu",
+        "palavra": "ndako [n-dá-ko]"
+    },
+    {
+        "exemplo_uso": "Nge kele wawa.  Eu estou bem.",
+        "explicacao": "kele = ser, estar.",
+        "id": 71,
+        "idioma": "Kimbundu",
+        "palavra": "kele [ké-le]"
+    },
+    {
+        "exemplo_uso": "Ndi ngana Kimbundu.  Estou aprendendo Kimbundu.",
+        "explicacao": "ngana = aprender.",
+        "id": 72,
+        "idioma": "Kimbundu",
+        "palavra": "ngana [nga-ná]"
+    },
+    {
+        "exemplo_uso": "Vula muinga.  Abra a porta.",
+        "explicacao": "vula = abrir.",
+        "id": 73,
+        "idioma": "Kimbundu",
+        "palavra": "vula [vú-la]"
+    },
+    {
+        "exemplo_uso": "Ndi sangila mayi.  Eu cozinho água.",
+        "explicacao": "sangila = cozinhar.",
+        "id": 74,
+        "idioma": "Kimbundu",
+        "palavra": "sangila [san-gí-la]"
+    },
+    {
+        "exemplo_uso": "Hobola mukanda.  Vista o casaco.",
+        "explicacao": "hobola = vestir.",
+        "id": 75,
+        "idioma": "Kimbundu",
+        "palavra": "hobola [ho-bó-la]"
+    },
+    {
+        "exemplo_uso": "Tuma mbote.  Envie a saudação.",
+        "explicacao": "tuma = enviar.",
+        "id": 76,
+        "idioma": "Kimbundu",
+        "palavra": "tuma [tú-ma]"
+    },
+    {
+        "exemplo_uso": "Ndi phulula.  Eu entendo.",
+        "explicacao": "phulula = entender.",
+        "id": 77,
+        "idioma": "Kimbundu",
+        "palavra": "phulula [phu-lu-lá]"
+    },
+    {
+        "exemplo_uso": "Vimba ndako.  Construa a casa.",
+        "explicacao": "vimba = construir.",
+        "id": 78,
+        "idioma": "Kimbundu",
+        "palavra": "vimba [vim-bá]"
+    },
+    {
+        "exemplo_uso": "Mona muinga?  Você viu a porta?",
+        "explicacao": "mona = ver.",
+        "id": 79,
+        "idioma": "Kimbundu",
+        "palavra": "mona [mó-na]"
+    },
+    {
+        "exemplo_uso": "Longa bana.  Ensine as crianças.",
+        "explicacao": "longa = ensinar.",
+        "id": 80,
+        "idioma": "Kikongo",
+        "palavra": "longa [lón-ga]"
+    },
+    {
+        "exemplo_uso": "Pusa Nzambi.  Reze a Deus.",
+        "explicacao": "pusa = orar.",
+        "id": 81,
+        "idioma": "Kikongo",
+        "palavra": "pusa [pú-sa]"
+    },
+    {
+        "exemplo_uso": "Pesa batu.  Eles perderam.",
+        "explicacao": "pesa = perder.",
+        "id": 82,
+        "idioma": "Kikongo",
+        "palavra": "pesa [pé-sa]"
+    },
+    {
+        "exemplo_uso": "Funa mayi.  Quero água.",
+        "explicacao": "funa = querer.",
+        "id": 83,
+        "idioma": "Kikongo",
+        "palavra": "funa [fu-ná]"
+    },
+    {
+        "exemplo_uso": "Tala batu.  Olhe as pessoas.",
+        "explicacao": "tala = olhar.",
+        "id": 84,
+        "idioma": "Kikongo",
+        "palavra": "tala [tá-la]"
+    },
+    {
+        "exemplo_uso": "Yeba kisalu.  Você conhece a estrada.",
+        "explicacao": "yeba = saber.",
+        "id": 85,
+        "idioma": "Kikongo",
+        "palavra": "yeba [yé-ba]"
+    },
+    {
+        "exemplo_uso": "Suka ntangu.  Termine o tempo.",
+        "explicacao": "súka = terminar.",
+        "id": 86,
+        "idioma": "Kikongo",
+        "palavra": "suka [sú-ka]"
+    },
+    {
+        "exemplo_uso": "Kombola muntu.  Salve a pessoa.",
+        "explicacao": "kombola = salvar.",
+        "id": 87,
+        "idioma": "Kikongo",
+        "palavra": "kombola [kom-bó-la]"
+    },
+    {
+        "exemplo_uso": "Munda ya muntu.  Solo de uma pessoa.",
+        "explicacao": "munda = terra.",
+        "id": 88,
+        "idioma": "Kikongo",
+        "palavra": "munda [mun-dá]"
+    },
+    {
+        "exemplo_uso": "Nsumbu yange.  Meu peixe.",
+        "explicacao": "nsumbu = peixe.",
+        "id": 89,
+        "idioma": "Kikongo",
+        "palavra": "nsumbu [n-sum-bu]"
+    },
+    {
+        "exemplo_uso": "Leta maji.  Traga água.",
+        "explicacao": "leta = trazer.",
+        "id": 90,
+        "idioma": "Nganguela",
+        "palavra": "leta [le-tá]"
+    },
+    {
+        "exemplo_uso": "Siba mwana.  Proteja a criança.",
+        "explicacao": "siba = proteger.",
+        "id": 91,
+        "idioma": "Nganguela",
+        "palavra": "siba [si-bá]"
+    },
+    {
+        "exemplo_uso": "Sanga nzala.  Encontre comida.",
+        "explicacao": "sanga = encontrar.",
+        "id": 92,
+        "idioma": "Nganguela",
+        "palavra": "sanga [san-gá]"
+    },
+    {
+        "exemplo_uso": "Pana tinda.  Dê comida.",
+        "explicacao": "pana = dar.",
+        "id": 93,
+        "idioma": "Nganguela",
+        "palavra": "pana [pa-ná]"
+    },
+    {
+        "exemplo_uso": "Fita ulwilo.  Saia do segredo.",
+        "explicacao": "fita = sair.",
+        "id": 94,
+        "idioma": "Nganguela",
+        "palavra": "fita [fi-tá]"
+    },
+    {
+        "exemplo_uso": "Konka nzila.  Siga o caminho.",
+        "explicacao": "konka = seguir.",
+        "id": 95,
+        "idioma": "Nganguela",
+        "palavra": "konka [kon-ká]"
+    },
+    {
+        "exemplo_uso": "Palula liedola.  Cante uma música.",
+        "explicacao": "palula = cantar.",
+        "id": 96,
+        "idioma": "Nganguela",
+        "palavra": "palula [pa-lu-lá]"
+    },
+    {
+        "exemplo_uso": "Sana mutima.  Cure o coração.",
+        "explicacao": "sana = curar.",
+        "id": 97,
+        "idioma": "Nganguela",
+        "palavra": "sana [sa-ná]"
+    },
+    {
+        "exemplo_uso": "Chapa nzila.  Bata a porta.",
+        "explicacao": "chapa = bater.",
+        "id": 98,
+        "idioma": "Nganguela",
+        "palavra": "chapa [cha-pá]"
+    },
+    {
+        "exemplo_uso": "Lomba Nzambi.  Peça a Deus.",
+        "explicacao": "lomba = pedir.",
+        "id": 99,
+        "idioma": "Nganguela",
+        "palavra": "lomba [lom-bá]"
+    },
+    {
+        "exemplo_uso": "Mosi omukaya welela.  Uma criança chorou.",
+        "explicacao": "mosi = um.",
+        "id": 100,
+        "idioma": "Umbundu",
+        "palavra": "mosi [mo-sí]"
+    },
+    {
+        "exemplo_uso": "Vali omukaya welela.  Duas crianças choraram.",
+        "explicacao": "vali = dois.",
+        "id": 101,
+        "idioma": "Umbundu",
+        "palavra": "vali [va-lí]"
+    },
+    {
+        "exemplo_uso": "Tatu omukaya welela.  Três crianças choraram.",
+        "explicacao": "tatu = três.",
+        "id": 102,
+        "idioma": "Umbundu",
+        "palavra": "tatu [tá-tu]"
+    },
+    {
+        "exemplo_uso": "Kwalã omukaya welela.  Quatro crianças choraram.",
+        "explicacao": "kwalã = quatro.",
+        "id": 103,
+        "idioma": "Umbundu",
+        "palavra": "kwalã [kwa-lã]"
+    },
+    {
+        "exemplo_uso": "Tãlo omukaya welela.  Cinco crianças choraram.",
+        "explicacao": "tãlo = cinco.",
+        "id": 104,
+        "idioma": "Umbundu",
+        "palavra": "tãlo [tã-lõ]"
+    },
+    {
+        "exemplo_uso": "Epandu omukaya welela.  Seis crianças choraram.",
+        "explicacao": "epandu = seis.",
+        "id": 105,
+        "idioma": "Umbundu",
+        "palavra": "epandu [e-pán-du]"
+    },
+    {
+        "exemplo_uso": "Epanduvali omukaya welela.  Sete crianças choraram.",
+        "explicacao": "epanduvali = sete.",
+        "id": 106,
+        "idioma": "Umbundu",
+        "palavra": "epanduvali [e-pán-du-va-lí]"
+    },
+    {
+        "exemplo_uso": "Ecelãla omukaya welela.  Oito crianças choraram.",
+        "explicacao": "ecelãla = oito.",
+        "id": 107,
+        "idioma": "Umbundu",
+        "palavra": "ecelãla [e-ce-lã-la]"
+    },
+    {
+        "exemplo_uso": "Ecea omukaya welela.  Nove crianças choraram.",
+        "explicacao": "ecea = nove.",
+        "id": 108,
+        "idioma": "Umbundu",
+        "palavra": "ecea [e-cé-a]"
+    },
+    {
+        "exemplo_uso": "Ekwí omukaya welela.  Dez crianças choraram.",
+        "explicacao": "ekwí = dez.",
+        "id": 109,
+        "idioma": "Umbundu",
+        "palavra": "ekwí [é-kwí]"
+    },
+    {
+        "exemplo_uso": "Mochi ndengue welela.  Uma criança chorou.",
+        "explicacao": "mochi = um.",
+        "id": 110,
+        "idioma": "Kimbundu",
+        "palavra": "mochi [mo-chí]"
+    },
+    {
+        "exemplo_uso": "Yadi ndengue welela.  Duas crianças choraram.",
+        "explicacao": "yadi = dois.",
+        "id": 111,
+        "idioma": "Kimbundu",
+        "palavra": "yadi [yá-di]"
+    },
+    {
+        "exemplo_uso": "Tatu ndengue welela.  Três crianças choraram.",
+        "explicacao": "tatu = três.",
+        "id": 112,
+        "idioma": "Kimbundu",
+        "palavra": "tatu [tá-tu]"
+    },
+    {
+        "exemplo_uso": "Wana ndengue welela.  Quatro crianças choraram.",
+        "explicacao": "wana = quatro.",
+        "id": 113,
+        "idioma": "Kimbundu",
+        "palavra": "wana [wá-na]"
+    },
+    {
+        "exemplo_uso": "Tano ndengue welela.  Cinco crianças choraram.",
+        "explicacao": "tano = cinco.",
+        "id": 114,
+        "idioma": "Kimbundu",
+        "palavra": "tano [tá-no]"
+    },
+    {
+        "exemplo_uso": "Samanu ndengue welela.  Seis crianças choraram.",
+        "explicacao": "samanu = seis.",
+        "id": 115,
+        "idioma": "Kimbundu",
+        "palavra": "samanu [sa-má-nu]"
+    },
+    {
+        "exemplo_uso": "Sambwadi ndengue welela.  Sete crianças choraram.",
+        "explicacao": "sambwadi = sete.",
+        "id": 116,
+        "idioma": "Kimbundu",
+        "palavra": "sambwadi [sam-bwá-di]"
+    },
+    {
+        "exemplo_uso": "Nake ndengue welela.  Oito crianças choraram.",
+        "explicacao": "nake = oito.",
+        "id": 117,
+        "idioma": "Kimbundu",
+        "palavra": "nake [ná-ke]"
+    },
+    {
+        "exemplo_uso": "Divwe ndengue welela.  Nove crianças choraram.",
+        "explicacao": "divwe = nove.",
+        "id": 118,
+        "idioma": "Kimbundu",
+        "palavra": "divwe [dív-we]"
+    },
+    {
+        "exemplo_uso": "Dikwinyi ndengue welela.  Dez crianças choraram.",
+        "explicacao": "dikwinyi = dez.",
+        "id": 119,
+        "idioma": "Kimbundu",
+        "palavra": "dikwinyi [di-kwín-yi]"
+    },
+    {
+        "exemplo_uso": "Mosi muntu.  Uma pessoa.",
+        "explicacao": "mosi = um.",
+        "id": 120,
+        "idioma": "Kikongo",
+        "palavra": "mosi [mo-sí]"
+    },
+    {
+        "exemplo_uso": "Zole bantu.  Duas pessoas.",
+        "explicacao": "zole = dois.",
+        "id": 121,
+        "idioma": "Kikongo",
+        "palavra": "zole [zó-le]"
+    },
+    {
+        "exemplo_uso": "Tatu bantu.  Três pessoas.",
+        "explicacao": "tatu = três.",
+        "id": 122,
+        "idioma": "Kikongo",
+        "palavra": "tatu [tá-tu]"
+    },
+    {
+        "exemplo_uso": "Ya bantu.  Quatro pessoas.",
+        "explicacao": "ya = quatro.",
+        "id": 123,
+        "idioma": "Kikongo",
+        "palavra": "ya [yá]"
+    },
+    {
+        "exemplo_uso": "Tanu bantu.  Cinco pessoas.",
+        "explicacao": "tanu = cinco.",
+        "id": 124,
+        "idioma": "Kikongo",
+        "palavra": "tanu [tá-nu]"
+    },
+    {
+        "exemplo_uso": "Sambanu bantu.  Seis pessoas.",
+        "explicacao": "sambanu = seis.",
+        "id": 125,
+        "idioma": "Kikongo",
+        "palavra": "sambanu [sam-bá-nu]"
+    },
+    {
+        "exemplo_uso": "Nsambwadi bantu.  Sete pessoas.",
+        "explicacao": "nsambwadi = sete.",
+        "id": 126,
+        "idioma": "Kikongo",
+        "palavra": "nsambwadi [n-sam-bwá-di]"
+    },
+    {
+        "exemplo_uso": "Nana bantu.  Oito pessoas.",
+        "explicacao": "nana = oito.",
+        "id": 127,
+        "idioma": "Kikongo",
+        "palavra": "nana [ná-na]"
+    },
+    {
+        "exemplo_uso": "Vwa bantu.  Nove pessoas.",
+        "explicacao": "vwa = nove.",
+        "id": 128,
+        "idioma": "Kikongo",
+        "palavra": "vwa [v-wa]"
+    },
+    {
+        "exemplo_uso": "Kumi bantu.  Dez pessoas.",
+        "explicacao": "kumi = dez.",
+        "id": 129,
+        "idioma": "Kikongo",
+        "palavra": "kumi [kú-mi]"
+    },
+    {
+        "exemplo_uso": "Kahsi mwana welela.  Uma criança chorou.",
+        "explicacao": "kahsi = um.",
+        "id": 130,
+        "idioma": "Nganguela",
+        "palavra": "kahsi [kah-sí]"
+    },
+    {
+        "exemplo_uso": "Kaali mwana welela.  Duas crianças choraram.",
+        "explicacao": "kaali = dois.",
+        "id": 131,
+        "idioma": "Nganguela",
+        "palavra": "kaali [ka-á-li]"
+    },
+    {
+        "exemplo_uso": "Katatu mwana welela.  Três crianças choraram.",
+        "explicacao": "katatu = três.",
+        "id": 132,
+        "idioma": "Nganguela",
+        "palavra": "katatu [ka-tá-tu]"
+    },
+    {
+        "exemplo_uso": "Kawana mwana welela.  Quatro crianças choraram.",
+        "explicacao": "kawana = quatro.",
+        "id": 133,
+        "idioma": "Nganguela",
+        "palavra": "kawana [ka-wá-na]"
+    },
+    {
+        "exemplo_uso": "Katano mwana welela.  Cinco crianças choraram.",
+        "explicacao": "katano = cinco.",
+        "id": 134,
+        "idioma": "Nganguela",
+        "palavra": "katano [ka-tá-no]"
+    },
+    {
+        "exemplo_uso": "Kasambano mwana welela.  Seis crianças choraram.",
+        "explicacao": "kasambano = seis.",
+        "id": 135,
+        "idioma": "Nganguela",
+        "palavra": "kasambano [ka-sam-bá-no]"
+    },
+    {
+        "exemplo_uso": "Kashimbi ali mwana welela.  Sete crianças choraram.",
+        "explicacao": "kashimbi ali = sete.",
+        "id": 136,
+        "idioma": "Nganguela",
+        "palavra": "kashimbi ali [ka-shím-bi a-lí]"
+    },
+    {
+        "exemplo_uso": "Nake mwana welela.  Oito crianças choraram.",
+        "explicacao": "nake = oito.",
+        "id": 137,
+        "idioma": "Nganguela",
+        "palavra": "nake [ná-ke]"
+    },
+    {
+        "exemplo_uso": "Livwa mwana welela.  Nove crianças choraram.",
+        "explicacao": "livwa = nove.",
+        "id": 138,
+        "idioma": "Nganguela",
+        "palavra": "livwa [lí-vwa]"
+    },
+    {
+        "exemplo_uso": "Kumi mwana welela.  Dez crianças choraram.",
+        "explicacao": "kumi = dez.",
+        "id": 139,
+        "idioma": "Nganguela",
+        "palavra": "kumi [kú-mi]"
+    },
+    {
+        "exemplo_uso": "Ombwa yange yalwala.  O meu cão ficou doente.",
+        "explicacao": "ombwa = cão, cachorro.",
+        "id": 140,
+        "idioma": "Umbundu",
+        "palavra": "ombwa [om-bwá]"
+    },
+    {
+        "exemplo_uso": "Ipuchi yikala mu nyumba.  O gato está na casa.",
+        "explicacao": "ipuchi = gato.",
+        "id": 141,
+        "idioma": "Umbundu",
+        "palavra": "ipuchi [i-pú-chi]"
+    },
+    {
+        "exemplo_uso": "Nyoka yange yalanda omuma.  A minha cobra mordeu a criança.",
+        "explicacao": "nyoka = cobra.",
+        "id": 142,
+        "idioma": "Umbundu",
+        "palavra": "nyoka [nyó-ka]"
+    },
+    {
+        "exemplo_uso": "Ohombo yaki umona mayi.  A cabra bebeu água.",
+        "explicacao": "ohombo = cabra, bode.",
+        "id": 143,
+        "idioma": "Umbundu",
+        "palavra": "ohombo [o-hóm-bo]"
+    },
+    {
+        "exemplo_uso": "Ocivuvu yala ombanda.  A galinha chocou o ovo.",
+        "explicacao": "ocivuvu = galinha, frango.",
+        "id": 144,
+        "idioma": "Umbundu",
+        "palavra": "ocivuvu [o-ci-vu-vú]"
+    },
+    {
+        "exemplo_uso": "Olusi yange yovelela.  O meu peixe morreu.",
+        "explicacao": "olusi = peixe.",
+        "id": 145,
+        "idioma": "Umbundu",
+        "palavra": "olusi [o-lu-sí]"
+    },
+    {
+        "exemplo_uso": "Ongombe yange yikala mu kunda.  A minha vaca está no pasto.",
+        "explicacao": "ongombe = boi, vaca (geral).",
+        "id": 146,
+        "idioma": "Umbundu",
+        "palavra": "ongombe [o-ngo-mbé]"
+    },
+    {
+        "exemplo_uso": "Onjindi yange yikula.  A minha vaca (fêmea) cresceu.",
+        "explicacao": "onjindi = vaca (fêmea).",
+        "id": 147,
+        "idioma": "Umbundu",
+        "palavra": "onjindi [o-nji-ndi]"
+    },
+    {
+        "exemplo_uso": "Elenaino yandula omubala.  O camaleão subiu no tronco.",
+        "explicacao": "elenaino = camaleão.",
+        "id": 148,
+        "idioma": "Umbundu",
+        "palavra": "elenaino [e-le-ná-i-no]"
+    },
+    {
+        "exemplo_uso": "Ohokahoka yala mu kiongo.  O abutre voou sobre o rochedo.",
+        "explicacao": "ohokahoka = abutre, urubu.",
+        "id": 149,
+        "idioma": "Umbundu",
+        "palavra": "ohokahoka [o-ho-ka-hó-ka]"
+    },
+    {
+        "exemplo_uso": "Mbwa yange yalwala.  O meu cão ficou doente.",
+        "explicacao": "mbwa = cão, cachorro.",
+        "id": 150,
+        "idioma": "Kimbundu",
+        "palavra": "mbwa [mbwá]"
+    },
+    {
+        "exemplo_uso": "Puchi yikala ki ndako.  O gato está na casa.",
+        "explicacao": "puchi = gato.",
+        "id": 151,
+        "idioma": "Kimbundu",
+        "palavra": "puchi [pu-chí]"
+    },
+    {
+        "exemplo_uso": "Nyoka ytola mwana.  A cobra picou a criança.",
+        "explicacao": "nyoka = cobra.",
+        "id": 152,
+        "idioma": "Kimbundu",
+        "palavra": "nyoka [nyó-ka]"
+    },
+    {
+        "exemplo_uso": "Ohombo yalya malanjana.  A cabra comeu as plantas.",
+        "explicacao": "ohombo = cabra, bode.",
+        "id": 153,
+        "idioma": "Kimbundu",
+        "palavra": "ohombo [o-hóm-bo]"
+    },
+    {
+        "exemplo_uso": "Civuvu yaluta mayi.  A galinha bebeu água.",
+        "explicacao": "civuvu = galinha, frango.",
+        "id": 154,
+        "idioma": "Kimbundu",
+        "palavra": "civuvu [ci-vu-vú]"
+    },
+    {
+        "exemplo_uso": "Lusi yanze yovelela.  O meu peixe morreu.",
+        "explicacao": "lusi = peixe.",
+        "id": 155,
+        "idioma": "Kimbundu",
+        "palavra": "lusi [lu-sí]"
+    },
+    {
+        "exemplo_uso": "Ngombe yange yikala mu kima.  O meu boi está no campo.",
+        "explicacao": "ngombe = boi, vaca.",
+        "id": 156,
+        "idioma": "Kimbundu",
+        "palavra": "ngombe [n-go-mbé]"
+    },
+    {
+        "exemplo_uso": "Jindi yange yikula.  A minha vaca (fêmea) cresceu.",
+        "explicacao": "jindi = vaca (fêmea).",
+        "id": 157,
+        "idioma": "Kimbundu",
+        "palavra": "jindi [jin-dí]"
+    },
+    {
+        "exemplo_uso": "Elenaino yandula mutobo.  O camaleão subiu na árvore.",
+        "explicacao": "elenaino = camaleão.",
+        "id": 158,
+        "idioma": "Kimbundu",
+        "palavra": "elenaino [e-le-ná-i-no]"
+    },
+    {
+        "exemplo_uso": "Hokahoka yala ku kintu.  O abutre voou sobre a pedra.",
+        "explicacao": "hokahoka = abutre, urubu.",
+        "id": 159,
+        "idioma": "Kimbundu",
+        "palavra": "hokahoka [ho-ka-hó-ka]"
+    },
+    {
+        "exemplo_uso": "Mbote yange yalonda.  O meu cão late.",
+        "explicacao": "mbote = cão.",
+        "id": 160,
+        "idioma": "Kikongo",
+        "palavra": "mbote [m-bo-té]"
+    },
+    {
+        "exemplo_uso": "Pusi yina yikala mu ndako.  O gato está na casa.",
+        "explicacao": "pusi = gato.",
+        "id": 161,
+        "idioma": "Kikongo",
+        "palavra": "pusi [pu-sí]"
+    },
+    {
+        "exemplo_uso": "Nyoka yika mwana.  A cobra mordeu a criança.",
+        "explicacao": "nyoka = cobra.",
+        "id": 162,
+        "idioma": "Kikongo",
+        "palavra": "nyoka [nyó-ka]"
+    },
+    {
+        "exemplo_uso": "Ngombe yange yikala mu ntoto.  O meu boi está no campo.",
+        "explicacao": "ngombe = boi, vaca.",
+        "id": 163,
+        "idioma": "Kikongo",
+        "palavra": "ngombe [n-go-m bé]"
+    },
+    {
+        "exemplo_uso": "Civuvu yaluta mayi.  A galinha bebeu água.",
+        "explicacao": "civuvu = galinha, frango.",
+        "id": 164,
+        "idioma": "Kikongo",
+        "palavra": "civuvu [ci-vu-vú]"
+    },
+    {
+        "exemplo_uso": "Lusi yange yovela.  O meu peixe morreu.",
+        "explicacao": "lusi = peixe.",
+        "id": 165,
+        "idioma": "Kikongo",
+        "palavra": "lusi [lu-sí]"
+    },
+    {
+        "exemplo_uso": "Elenaino yayimuka mu mpanda.  O camaleão subiu na árvore.",
+        "explicacao": "elenaino = camaleão.",
+        "id": 166,
+        "idioma": "Kikongo",
+        "palavra": "elenaino [e-le-ná-i-no]"
+    },
+    {
+        "exemplo_uso": "Hokahoka yafula mu nkonzo.  O abutre voou sobre a pedra.",
+        "explicacao": "hokahoka = abutre, urubu.",
+        "id": 167,
+        "idioma": "Kikongo",
+        "palavra": "hokahoka [ho-ka-hó-ka]"
+    },
+    {
+        "exemplo_uso": "Ohombo yagwila mayi.  A cabra bebeu água.",
+        "explicacao": "ohombo = cabra, bode.",
+        "id": 168,
+        "idioma": "Kikongo",
+        "palavra": "ohombo [o-hóm-bo]"
+    },
+    {
+        "exemplo_uso": "Nyoka nsumbu yalosi.  A enguia saiu da água.",
+        "explicacao": "nyoka nsumbu = enguia.",
+        "id": 169,
+        "idioma": "Kikongo",
+        "palavra": "nyoka nsumbu [nyó-ka n-sú-m-bu]"
+    },
+    {
+        "exemplo_uso": "Mbwa yange yalunda.  O meu cão latiu.",
+        "explicacao": "mbwa = cão.",
+        "id": 170,
+        "idioma": "Nganguela",
+        "palavra": "mbwa [mbwá]"
+    },
+    {
+        "exemplo_uso": "Pusi yika mu ndako.  O gato está na casa.",
+        "explicacao": "pusi = gato.",
+        "id": 171,
+        "idioma": "Nganguela",
+        "palavra": "pusi [pu-sí]"
+    },
+    {
+        "exemplo_uso": "Nyoka yange yiva mwana.  A cobra mordeu a criança.",
+        "explicacao": "nyoka = cobra.",
+        "id": 172,
+        "idioma": "Nganguela",
+        "palavra": "nyoka [nyó-ka]"
+    },
+    {
+        "exemplo_uso": "Ohombo yaluta mayi.  A cabra bebeu água.",
+        "explicacao": "ohombo = cabra, bode.",
+        "id": 173,
+        "idioma": "Nganguela",
+        "palavra": "ohombo [o-hóm-bo]"
+    },
+    {
+        "exemplo_uso": "Civuvu yalumba mitovo.  A galinha andou pelos galhos.",
+        "explicacao": "civuvu = galinha, frango.",
+        "id": 174,
+        "idioma": "Nganguela",
+        "palavra": "civuvu [ci-vu-vú]"
+    },
+    {
+        "exemplo_uso": "Lusi yalovelela.  O meu peixe morreu.",
+        "explicacao": "lusi = peixe.",
+        "id": 175,
+        "idioma": "Nganguela",
+        "palavra": "lusi [lu-sí]"
+    },
+    {
+        "exemplo_uso": "Ngombe yaheta mu kima.  O meu boi está no campo.",
+        "explicacao": "ngombe = boi, vaca.",
+        "id": 176,
+        "idioma": "Nganguela",
+        "palavra": "ngombe [n-go-m-bé]"
+    },
+    {
+        "exemplo_uso": "Elenaino yanduka mu muamba.  O camaleão subiu no tronco.",
+        "explicacao": "elenaino = camaleão.",
+        "id": 177,
+        "idioma": "Nganguela",
+        "palavra": "elenaino [e-le-ná-i-no]"
+    },
+    {
+        "exemplo_uso": "Hokahoka yalumba mu kisolo.  O abutre sobrevoou a floresta.",
+        "explicacao": "hokahoka = abutre, urubu.",
+        "id": 178,
+        "idioma": "Nganguela",
+        "palavra": "hokahoka [ho-ka-hó-ka]"
+    },
+    {
+        "exemplo_uso": "Ngulu yange yaluka mayi.  O jacaré nadou na água.",
+        "explicacao": "ngulu = jacaré.",
+        "id": 179,
+        "idioma": "Nganguela",
+        "palavra": "ngulu [ngu-lú]"
+    },
+    {
+        "exemplo_uso": "Wakolapo? Ngekoye?  Olá! Você está bem?",
+        "explicacao": "Wakolapo? = olá (saudação a uma pessoa).",
+        "id": 180,
+        "idioma": "Umbundu",
+        "palavra": "Wakolapo? [wa-ko-lá-po?]"
+    },
+    {
+        "exemplo_uso": "Wakolipo? Ovimbundu ovakisi?  Olá a todos? Como vão os Ovimbundu?",
+        "explicacao": "Wakolipo? = olá (saudação a várias pessoas).",
+        "id": 181,
+        "idioma": "Umbundu",
+        "palavra": "Wakolipo? [wa-ko-lí-po?]"
+    },
+    {
+        "exemplo_uso": "Utanya uwa! Maradio kwenda?  Bom dia! Você dormiu bem?",
+        "explicacao": "Utanya uwa = bom dia.",
+        "id": 182,
+        "idioma": "Umbundu",
+        "palavra": "Utanya uwa [u-tán-ya u-wá]"
+    },
+    {
+        "exemplo_uso": "Ekumbi liwa! Ulela foi ko?  Boa tarde! Como passaram a manhã?",
+        "explicacao": "Ekumbi liwa = boa tarde.",
+        "id": 183,
+        "idioma": "Umbundu",
+        "palavra": "Ekumbi liwa [e-kúm-bi lí-wa]"
+    },
+    {
+        "exemplo_uso": "Uteke uwa! Utafe yakwenda?  Boa noite! Como foi o dia?",
+        "explicacao": "Uteke uwa = boa noite.",
+        "id": 184,
+        "idioma": "Umbundu",
+        "palavra": "Uteke uwa [u-té-ke u-wá]"
+    },
+    {
+        "exemplo_uso": "Pekelapo ciwa! Onji volela?  Durma bem! Bebeu água?",
+        "explicacao": "Pekelapo ciwa = durma bem (despedida noturna).",
+        "id": 185,
+        "idioma": "Umbundu",
+        "palavra": "Pekelapo ciwa [pe-ke-lá-po ci-wá]"
+    },
+    {
+        "exemplo_uso": "Ndanda! Twavo ku mbale.  Adeus! Vou ao mercado.",
+        "explicacao": "Ndanda = fui, usado como adeus.",
+        "id": 186,
+        "idioma": "Umbundu",
+        "palavra": "Ndanda [n-dán-da]"
+    },
+    {
+        "exemplo_uso": "Ukombe weya! Twasenge vesa.  Bem-vindo! Que bom vê-lo aqui.",
+        "explicacao": "Ukombe weya = o convidado chegou, saudação de boas-vindas.",
+        "id": 187,
+        "idioma": "Umbundu",
+        "palavra": "Ukombe weya [u-kom-bé we-yá]"
+    },
+    {
+        "exemplo_uso": "Ndaty okasi etali?  Como você está hoje?",
+        "explicacao": "Pergunta sobre estado de saúde.",
+        "id": 188,
+        "idioma": "Umbundu",
+        "palavra": "Ndaty okasi etali? [n-da-ty o-ka-si e-ta-li?]"
+    },
+    {
+        "exemplo_uso": "Ñasi ciwa! Onda wakumane?  Estou bem! E você, como está?",
+        "explicacao": "Ñasi ciwa = estou bem, obrigada(o).",
+        "id": 189,
+        "idioma": "Umbundu",
+        "palavra": "Ñasi ciwa [?á-si ci-wá]"
+    },
+    {
+        "exemplo_uso": "Mimenekenu! Nge ngana ku Kimbundu?  Cumprimentos! Você estuda Kimbundu?",
+        "explicacao": "Mimenekenu = cumprimentos gerais.",
+        "id": 190,
+        "idioma": "Kimbundu",
+        "palavra": "Mimenekenu [mí-mé-ne-ké-nu]"
+    },
+    {
+        "exemplo_uso": "Xe! Ngasanguluka mu ku kwijya?  Olá! Prazer em conhecê-lo.",
+        "explicacao": "Xe = olá (informal) + prazer em conhecer.",
+        "id": 191,
+        "idioma": "Kimbundu",
+        "palavra": "Xe [sé]"
+    },
+    {
+        "exemplo_uso": "Wazekele! Mosi wapapala?  Bom dia! Como amanheceu?",
+        "explicacao": "Wazekele = bom dia.",
+        "id": 192,
+        "idioma": "Kimbundu",
+        "palavra": "Wazekele [wa-zek-é-le]"
+    },
+    {
+        "exemplo_uso": "Wanange! Ngani wakisanga?  Boa tarde! Como está você?",
+        "explicacao": "Wanange = boa tarde.",
+        "id": 193,
+        "idioma": "Kimbundu",
+        "palavra": "Wanange [wa-nán-ge]"
+    },
+    {
+        "exemplo_uso": "Ngoloxyoyo! Uyi kili?  Boa noite! Está tudo bem?",
+        "explicacao": "Ngoloxyoyo = boa noite.",
+        "id": 194,
+        "idioma": "Kimbundu",
+        "palavra": "Ngoloxyoyo [n-go-lo-xyo-yo]"
+    },
+    {
+        "exemplo_uso": "Kyebhi kiwala?  Como você está?",
+        "explicacao": "Pergunta usual de como vai?.",
+        "id": 195,
+        "idioma": "Kimbundu",
+        "palavra": "Kyebhi kiwala? [kyé-bhi ki-wá-la?]"
+    },
+    {
+        "exemplo_uso": "Eme ngakala kyambote!  Estou bem, obrigado(a)!",
+        "explicacao": "Eme nga(ka)la kyambote = estou ótimo(a).",
+        "id": 196,
+        "idioma": "Kimbundu",
+        "palavra": "Eme nga(ka)la kyambote [é-me nga-ká-la kyam-bó-te]"
+    },
+    {
+        "exemplo_uso": "Bhite kizuwa kiki ni kisangusangu kyoso.  Tenham um bom dia!",
+        "explicacao": "Bhite kizuwa = tenha um bom dia.",
+        "id": 197,
+        "idioma": "Kimbundu",
+        "palavra": "Bhite kizuwa kiki ni kisangusangu kyoso [bí-te ki-zú-wa kì-ki ni ki-san-gu-sá-ngu kyó-so]"
+    },
+    {
+        "exemplo_uso": "Ngolobeta o mwenyu!  Estou indo muito bem!",
+        "explicacao": "Ngolobeta o mwenyu = estou me sentindo ótima(o).",
+        "id": 198,
+        "idioma": "Kimbundu",
+        "palavra": "Ngolobeta o mwenyu [n-go-lo-be-ta o mwé-nyu]"
+    },
+    {
+        "exemplo_uso": "Ngikumona ki ngisuluka.  Até logo!",
+        "explicacao": "Ngikumona ki ngisuluka = até mais tarde.",
+        "id": 199,
+        "idioma": "Kimbundu",
+        "palavra": "Ngikumona ki ngisuluka [n-gi-ku-mó-na ki n-gi-su-lú-ka]"
+    },
+    {
+        "exemplo_uso": "Kiambote! Ngeye wina?  Olá! Como você está?",
+        "explicacao": "Kiambote = olá, bom dia.",
+        "id": 200,
+        "idioma": "Kikongo",
+        "palavra": "Kiambote [ki-am-bó-te]"
+    },
+    {
+        "exemplo_uso": "Mbotaku, ngeye wina?  Olá para você! Como está?",
+        "explicacao": "Saudação específica a uma pessoa.",
+        "id": 201,
+        "idioma": "Kikongo",
+        "palavra": "Mbotaku [m-bo-tá-ku]"
+    },
+    {
+        "exemplo_uso": "Mbote zeno! Beno mawu?  Olá a todos! Como vocês estão?",
+        "explicacao": "Saudação a várias pessoas.",
+        "id": 202,
+        "idioma": "Kikongo",
+        "palavra": "Mbote zeno [m-bo-te zé-no]"
+    },
+    {
+        "exemplo_uso": "Mbote na yo!  Olá para você!",
+        "explicacao": "Variante olá direcionada a alguém.",
+        "id": 203,
+        "idioma": "Kikongo",
+        "palavra": "Mbote na yo [m-bo-te na yó]"
+    },
+    {
+        "exemplo_uso": "Mbote na bino!  Olá a todos!",
+        "explicacao": "Variante para grupo.",
+        "id": 204,
+        "idioma": "Kikongo",
+        "palavra": "Mbote na bino [m-bo-te na bí-no]"
+    },
+    {
+        "exemplo_uso": "Kiambote kiaku!  Olá! (a você)",
+        "explicacao": "Específico para um indivíduo.",
+        "id": 205,
+        "idioma": "Kikongo",
+        "palavra": "Kiambote kiaku [ki-am-bó-te ki-á-ku]"
+    },
+    {
+        "exemplo_uso": "Kiambote kieno!  Olá! (a vocês)",
+        "explicacao": "Específico para várias pessoas.",
+        "id": 206,
+        "idioma": "Kikongo",
+        "palavra": "Kiambote kieno [ki-am-bó-te kì-é-no]"
+    },
+    {
+        "exemplo_uso": "Lumbu kiambote!  Bom dia!",
+        "explicacao": "Literalmente dia, olá.",
+        "id": 207,
+        "idioma": "Kikongo",
+        "palavra": "Lumbu kiambote [lúm-bu ki-am-bó-te]"
+    },
+    {
+        "exemplo_uso": "Nkokela kiambote!  Boa noite!",
+        "explicacao": "Literalmente noite, olá.",
+        "id": 208,
+        "idioma": "Kikongo",
+        "palavra": "Nkokela kiambote [n-ko-ké-la ki-am-bó-te]"
+    },
+    {
+        "exemplo_uso": "Yenge, mona ngeye?  Paz, nos vemos depois?",
+        "explicacao": "Yenge = paz para você, saudação formal.",
+        "id": 209,
+        "idioma": "Kikongo",
+        "palavra": "Yenge [yé-nge]"
+    },
+    {
+        "exemplo_uso": "Kuchi! Nge wina?  Olá! Como você está?",
+        "explicacao": "Kuchi = olá, saudação geral.",
+        "id": 210,
+        "idioma": "Chokwe",
+        "palavra": "Kuchi [ku-chí]"
+    },
+    {
+        "exemplo_uso": "Chimene chipema! Mosi watambula?  Bom dia! Você caminhou bem?",
+        "explicacao": "Chimene chipema = bom dia.",
+        "id": 211,
+        "idioma": "Chokwe",
+        "palavra": "Chimene chipema [chi-mé-ne chi-pé-ma]"
+    },
+    {
+        "exemplo_uso": "Chingoloshi chipema! Uya kuni?  Boa tarde! Como vai você?",
+        "explicacao": "Chingoloshi chipema = boa tarde.",
+        "id": 212,
+        "idioma": "Chokwe",
+        "palavra": "Chingoloshi chipema [chi-ngo-lo-shi chi-pé-ma]"
+    },
+    {
+        "exemplo_uso": "Ufuku upema! Ulema yange kele kuvala?  Boa noite! Meu trabalho está feito?",
+        "explicacao": "Ufuku upema = boa noite.",
+        "id": 213,
+        "idioma": "Chokwe",
+        "palavra": "Ufuku upema [u-fú-ku u-pé-ma]"
+    },
+    {
+        "exemplo_uso": "Salenu kanawa!  Adeus!",
+        "explicacao": "Salenu kanawa = adeus.",
+        "id": 214,
+        "idioma": "Chokwe",
+        "palavra": "Salenu kanawa [sa-le-nú ka-na-wá]"
+    },
+    {
+        "exemplo_uso": "Ndo shimbu yikehe!  Até logo!",
+        "explicacao": "Ndo shimbu yikehe = vejo você em breve.",
+        "id": 215,
+        "idioma": "Chokwe",
+        "palavra": "Ndo shimbu yikehe [n-do shim-bu yi-ke-hé]"
+    },
+    {
+        "exemplo_uso": "Ndo shimbu yikwo!  Até mais tarde!",
+        "explicacao": "Ndo shimbu yikwo = até depois.",
+        "id": 216,
+        "idioma": "Chokwe",
+        "palavra": "Ndo shimbu yikwo [n-do shim-bu yi-kwo]"
+    },
+    {
+        "exemplo_uso": "Ndo hamene!  Até amanhã!",
+        "explicacao": "Ndo hamene = até amanhã.",
+        "id": 217,
+        "idioma": "Chokwe",
+        "palavra": "Ndo hamene [n-do ha-me-né]"
+    },
+    {
+        "exemplo_uso": "Nuahinduka?  Como você está?",
+        "explicacao": "Pergunta como vai?, forma usual.",
+        "id": 218,
+        "idioma": "Chokwe",
+        "palavra": "Nuahinduka? [nu-a-hin-dú-ka?]"
+    },
+    {
+        "exemplo_uso": "Nguli kanawa!  Estou bem!",
+        "explicacao": "Nguli kanawa = estou bem.",
+        "id": 219,
+        "idioma": "Chokwe",
+        "palavra": "Nguli kanawa [ngú-li ka-na-wá]"
+    },
+    {
+        "exemplo_uso": "Tu oku sivaya Suku kwange  Tu louvas o meu Deus.",
+        "explicacao": "louvar",
+        "id": 220,
+        "idioma": "Umbundu",
+        "palavra": "Oku Sivaya [úkù sìváià]"
+    },
+    {
+        "exemplo_uso": "Twali oku lomba mu ekongelo  Íamos orar na igreja.",
+        "explicacao": "orar",
+        "id": 221,
+        "idioma": "Umbundu",
+        "palavra": "Oku Lomba [ókù lómbà]"
+    },
+    {
+        "exemplo_uso": "Suku mwene ti wila  Deus é fiel.",
+        "explicacao": "Deus",
+        "id": 222,
+        "idioma": "Umbundu",
+        "palavra": "Suku [súkù]"
+    },
+    {
+        "exemplo_uso": "Ekongelo yange yikanda  Minha igreja está cheia.",
+        "explicacao": "igreja",
+        "id": 223,
+        "idioma": "Umbundu",
+        "palavra": "Ekongelo [èkòngélò]"
+    },
+    {
+        "exemplo_uso": "Ekolelo yange yikula  Minha fé cresceu.",
+        "explicacao": "fé",
+        "id": 224,
+        "idioma": "Umbundu",
+        "palavra": "Ekolelo [èkòlélò]"
+    },
+    {
+        "exemplo_uso": "Ombembua ke ngangame  A paz é profunda.",
+        "explicacao": "paz",
+        "id": 225,
+        "idioma": "Umbundu",
+        "palavra": "Ombembua [òmbémbuà]"
+    },
+    {
+        "exemplo_uso": "Ekulusu yange yisa  Minha cruz me sustenta.",
+        "explicacao": "cruz",
+        "id": 226,
+        "idioma": "Umbundu",
+        "palavra": "Ekulusu [èkùlúsù]"
+    },
+    {
+        "exemplo_uso": "Osonde ya Yesu yikula  O sangue de Jesus flui.",
+        "explicacao": "sangue",
+        "id": 227,
+        "idioma": "Umbundu",
+        "palavra": "Osonde [òssóndè]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Embimbiliya  Eu estudo a Bíblia.",
+        "explicacao": "Bíblia",
+        "id": 228,
+        "idioma": "Umbundu",
+        "palavra": "Embimbiliya [émbìmbìlíyà]"
+    },
+    {
+        "exemplo_uso": "Utima wane wukate  Meu coração está tocado.",
+        "explicacao": "coração",
+        "id": 229,
+        "idioma": "Umbundu",
+        "palavra": "Utima [ùtímà]"
+    },
+    {
+        "exemplo_uso": "Nga ku ximana Nzambi kuakala  Eu louvo a Deus constantemente.",
+        "explicacao": "louvar",
+        "id": 230,
+        "idioma": "Kimbundu",
+        "palavra": "Ku Ximana [kú xìmánà]"
+    },
+    {
+        "exemplo_uso": "Nge kusamba ti kuilaila  Eu oro de madrugada.",
+        "explicacao": "orar",
+        "id": 231,
+        "idioma": "Kimbundu",
+        "palavra": "Kusamba [kùsámbà]"
+    },
+    {
+        "exemplo_uso": "Nzambi yaluka vazo  Deus cumpriu sua palavra.",
+        "explicacao": "Deus",
+        "id": 232,
+        "idioma": "Kimbundu",
+        "palavra": "Nzambi [m-zá-m-bì]"
+    },
+    {
+        "exemplo_uso": "Ngeleja yange yibika  Minha igreja cresce.",
+        "explicacao": "igreja",
+        "id": 233,
+        "idioma": "Kimbundu",
+        "palavra": "Ngeleja [ngèléjà]"
+    },
+    {
+        "exemplo_uso": "Kixikinu yange yitoka  Minha fé me sustenta.",
+        "explicacao": "fé",
+        "id": 234,
+        "idioma": "Kimbundu",
+        "palavra": "Kixikinu [kìxíkìnù]"
+    },
+    {
+        "exemplo_uso": "Ngana yange yeleka  Senhor me protege.",
+        "explicacao": "Senhor",
+        "id": 235,
+        "idioma": "Kimbundu",
+        "palavra": "Ngana [ngana]"
+    },
+    {
+        "exemplo_uso": "Dikulusu yange yalela  Minha cruz me ajuda a crescer.",
+        "explicacao": "cruz",
+        "id": 236,
+        "idioma": "Kimbundu",
+        "palavra": "Dikulusu [dìkùlússù]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Divulu dya Nzambi  Eu estudo a Palavra de Deus.",
+        "explicacao": "Bíblia",
+        "id": 237,
+        "idioma": "Kimbundu",
+        "palavra": "Divulu dya Nzambi [dívùlù diá nzámbì]"
+    },
+    {
+        "exemplo_uso": "Muxima wane uyela  Meu coração se alegra.",
+        "explicacao": "coração",
+        "id": 238,
+        "idioma": "Kimbundu",
+        "palavra": "Muxima [mùxímà]"
+    },
+    {
+        "exemplo_uso": "Henda ya Nzambi yalunga  A misericórdia de Deus acalma.",
+        "explicacao": "misericórdia",
+        "id": 239,
+        "idioma": "Kimbundu",
+        "palavra": "Henda [Héndà]"
+    },
+    {
+        "exemplo_uso": "Nge samba Nzambi kaka  Eu louvo só a Deus.",
+        "explicacao": "louvar",
+        "id": 240,
+        "idioma": "Kikongo",
+        "palavra": "Samba [sámbà]"
+    },
+    {
+        "exemplo_uso": "Beto kusamba ntangu zole  Nós oramos a qualquer hora.",
+        "explicacao": "orar",
+        "id": 241,
+        "idioma": "Kikongo",
+        "palavra": "SKusamba [kúsámbà]"
+    },
+    {
+        "exemplo_uso": "Nzámbì yina kiye  Deus é grande.",
+        "explicacao": "Deus",
+        "id": 242,
+        "idioma": "Kikongo",
+        "palavra": "Nzambi [`mzámbì]"
+    },
+    {
+        "exemplo_uso": "Nzo ya Nzambi yikala makasi  A igreja é poderosa.",
+        "explicacao": "igreja",
+        "id": 243,
+        "idioma": "Kikongo",
+        "palavra": "Nzo ya Nzambi [nzó yá nzámbì]"
+    },
+    {
+        "exemplo_uso": "Luvuvamu yikala malamu  A paz reina.",
+        "explicacao": "paz",
+        "id": 244,
+        "idioma": "Kikongo",
+        "palavra": "Luvuvamu [lùvúvàmù]"
+    },
+    {
+        "exemplo_uso": "Nkulusu ya Yesu yipusa  A cruz de Jesus me salva.",
+        "explicacao": "cruz",
+        "id": 245,
+        "idioma": "Kikongo",
+        "palavra": "Nkulusu [nkúlùssù]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Ndákà Nzámbì  Eu estudo a Bíblia.",
+        "explicacao": "Bíblia",
+        "id": 246,
+        "idioma": "Kikongo",
+        "palavra": "Ndákà Nzámbì [ndákà nzámbì]"
+    },
+    {
+        "exemplo_uso": "Mfumu wane yikete  O Senhor cuida de mim.",
+        "explicacao": "Senhor",
+        "id": 247,
+        "idioma": "Kikongo",
+        "palavra": "Mfúmù [mfúmù]"
+    },
+    {
+        "exemplo_uso": "Ntima yange yipusa  Meu coração se alegra.",
+        "explicacao": "coração",
+        "id": 248,
+        "idioma": "Kikongo",
+        "palavra": "Ntímà [ntímà]"
+    },
+    {
+        "exemplo_uso": "Nlungu ya Yesu yalula  A misericórdia de Jesus cura.",
+        "explicacao": "misericórdia",
+        "id": 249,
+        "idioma": "Kikongo",
+        "palavra": "Nlungu [nlúngù]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Embimbiliya  Eu estudo a Bíblia.",
+        "explicacao": "Bíblia",
+        "id": 250,
+        "idioma": "Ngoya",
+        "palavra": "Embimbiliya [émbìmbìlíyà]"
+    },
+    {
+        "exemplo_uso": "Nzambi wa sunga kala  Deus é nosso protetor.",
+        "explicacao": "Deus",
+        "id": 251,
+        "idioma": "Ngoya",
+        "palavra": "Nzambi [mzámbì]"
+    },
+    {
+        "exemplo_uso": "Dikulusu ya Yesu yikila  A cruz de Jesus me guia.",
+        "explicacao": "cruz",
+        "id": 252,
+        "idioma": "Ngoya",
+        "palavra": "Dikulusu [dìkùlússù]"
+    },
+    {
+        "exemplo_uso": "Sonde ya Yesu yikela  O sangue de Jesus limpa.",
+        "explicacao": "sangue",
+        "id": 253,
+        "idioma": "Ngoya",
+        "palavra": "Sonde [sóndè]"
+    },
+    {
+        "exemplo_uso": "Kìxíkìnù wane yitoka  Minha fé se fortalece.",
+        "explicacao": "fé",
+        "id": 254,
+        "idioma": "Ngoya",
+        "palavra": "Kixikinu [kìxíkìnù]"
+    },
+    {
+        "exemplo_uso": "Muxima wane tikonda  Meu coração ora.",
+        "explicacao": "coração",
+        "id": 255,
+        "idioma": "Ngoya",
+        "palavra": "Muxima [mùxímà]"
+    },
+    {
+        "exemplo_uso": "Ngeleja tulonga  Vamos à igreja para adorar.",
+        "explicacao": "igreja",
+        "id": 256,
+        "idioma": "Ngoya",
+        "palavra": "Ngeleja [ngèléjà]"
+    },
+    {
+        "exemplo_uso": "Tuánà Nzámbì tulufulu  Filhos de Deus cantam.",
+        "explicacao": "filhos de Deus",
+        "id": 257,
+        "idioma": "Ngoya",
+        "palavra": "Tuánà Nzámbì [tuánà nzámbì]"
+    },
+    {
+        "exemplo_uso": "Kutululuka yikela  A paz de Deus nos envolve.",
+        "explicacao": "paz",
+        "id": 258,
+        "idioma": "Ngoya",
+        "palavra": "Kutululuka [mónà à nzámbì]"
+    },
+    {
+        "exemplo_uso": "Henda ya Nzambi yalunga  A misericórdia de Deus acalma.",
+        "explicacao": "misericórdia",
+        "id": 259,
+        "idioma": "Ngoya",
+        "palavra": "Henda [mzámbì]"
+    },
+    {
+        "exemplo_uso": "Lacimue ova?  Nada há de novo?",
+        "explicacao": "Nada",
+        "id": 260,
+        "idioma": "Umbundu",
+        "palavra": "Lacimue [lá-cí-mue]"
+    },
+    {
+        "exemplo_uso": "Lomwe olona?  Ninguém veio?",
+        "explicacao": "Ninguém",
+        "id": 261,
+        "idioma": "Umbundu",
+        "palavra": "Lomwe [ló-mwe]"
+    },
+    {
+        "exemplo_uso": "Otchissola yange yuhele.  Meu amor me sustenta.",
+        "explicacao": "Amor",
+        "id": 262,
+        "idioma": "Umbundu",
+        "palavra": "Otchissola [òtchi-ssó-la]"
+    },
+    {
+        "exemplo_uso": "Olwali wa Suku ukumwelela.  O mundo de Deus é fiel.",
+        "explicacao": "Mundo",
+        "id": 263,
+        "idioma": "Umbundu",
+        "palavra": "Olwali [ó-lu-á-li]"
+    },
+    {
+        "exemplo_uso": "Omwenho wange wa tala.  A minha vida é preciosa.",
+        "explicacao": "Vida",
+        "id": 264,
+        "idioma": "Umbundu",
+        "palavra": "Omwenho [o-mwén-ho]"
+    },
+    {
+        "exemplo_uso": "Puãi twali tumona.  Porém, estávamos atentos.",
+        "explicacao": "Conjunção adversativa porém",
+        "id": 265,
+        "idioma": "Umbundu",
+        "palavra": "Puãi [pwái]"
+    },
+    {
+        "exemplo_uso": "Ekamba wange wakuta.  Meu amigo íntimo chegou.",
+        "explicacao": "Amigo íntimo",
+        "id": 266,
+        "idioma": "Umbundu",
+        "palavra": "Ekamba [èkámbà]"
+    },
+    {
+        "exemplo_uso": "Ukuetu wange wakala.  Meu irmão (fraternal) chegou.",
+        "explicacao": "Amigo generalizado/irmão",
+        "id": 267,
+        "idioma": "Umbundu",
+        "palavra": "Ukuetu [ùkué-tu]"
+    },
+    {
+        "exemplo_uso": "Ocisola ezali epamba.  O amor é imenso.",
+        "explicacao": "Amor",
+        "id": 268,
+        "idioma": "Umbundu",
+        "palavra": "Ocisola [òtchì-ssólà]"
+    },
+    {
+        "exemplo_uso": "Ci wa welela?  Está bem?",
+        "explicacao": "Bem (estado)",
+        "id": 269,
+        "idioma": "Umbundu",
+        "palavra": "Ci wa [tchí-wá]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Embimbiliya.  Eu estudo a Bíblia.",
+        "explicacao": "Bíblia",
+        "id": 270,
+        "idioma": "Umbundu",
+        "palavra": "Embimbiliya [émbìmbìlíyà]"
+    },
+    {
+        "exemplo_uso": "Ilu ya nkombe ke hele.  O céu está limpo.",
+        "explicacao": "Céu",
+        "id": 271,
+        "idioma": "Umbundu",
+        "palavra": "Ilu [í-lu]"
+    },
+    {
+        "exemplo_uso": "Nzola kamba yange.  Meu amigo íntimo me conforta.",
+        "explicacao": "Amigo íntimo",
+        "id": 272,
+        "idioma": "Kimbundu",
+        "palavra": "Kamba [kámbà]"
+    },
+    {
+        "exemplo_uso": "Mukuetu wange wakala.  Meu irmão me acompanha.",
+        "explicacao": "Amigo generalizado/irmão",
+        "id": 273,
+        "idioma": "Kimbundu",
+        "palavra": "Mukuetu [mùkué-tu]"
+    },
+    {
+        "exemplo_uso": "Zola yange yalutia.  Meu amor me guia.",
+        "explicacao": "Amor",
+        "id": 274,
+        "idioma": "Kimbundu",
+        "palavra": "Zola [zó-la]"
+    },
+    {
+        "exemplo_uso": "Kya mbote!  Está ótimo!",
+        "explicacao": "Bem",
+        "id": 275,
+        "idioma": "Kimbundu",
+        "palavra": "Kya mbote [kiá-mbótè]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Divulu dya Nzambi.  Eu estudo a Palavra de Deus.",
+        "explicacao": "Bíblia",
+        "id": 276,
+        "idioma": "Kimbundu",
+        "palavra": "Divulu dya Nzambi [dívùlù-dyá-nzámbì]"
+    },
+    {
+        "exemplo_uso": "Diúlù yange kele te.  Meu céu não tem fim.",
+        "explicacao": "Céu",
+        "id": 277,
+        "idioma": "Kimbundu",
+        "palavra": "Diúlù [diú-lù]"
+    },
+    {
+        "exemplo_uso": "Nkúndì yange yalunda.  Meu amigo íntimo sorri.",
+        "explicacao": "Amigo íntimo",
+        "id": 278,
+        "idioma": "Kikongo",
+        "palavra": "Nkúndì [nkúndì]"
+    },
+    {
+        "exemplo_uso": "Kúndì wane wakala.  Meu irmão se juntou a nós.",
+        "explicacao": "Amigo generalizado/irmão",
+        "id": 279,
+        "idioma": "Kikongo",
+        "palavra": "Kúndì [kúndì]"
+    },
+    {
+        "exemplo_uso": "Nzólà yakala malamu.  O amor é bom.",
+        "explicacao": "Amor",
+        "id": 280,
+        "idioma": "Kikongo",
+        "palavra": "Nzólà [nzólà]"
+    },
+    {
+        "exemplo_uso": "Kiá mbótè!  Tudo certo!",
+        "explicacao": "Bem",
+        "id": 281,
+        "idioma": "Kikongo",
+        "palavra": "Kiá mbótè [kiá-mbótè]"
+    },
+    {
+        "exemplo_uso": "Ndi kulonga Ndákà Nzámbì.  Eu estudo a Bíblia.",
+        "explicacao": "Bíblia",
+        "id": 282,
+        "idioma": "Kikongo",
+        "palavra": "Ndákà Nzámbì [ndákà-nzámbì]"
+    },
+    {
+        "exemplo_uso": "Zúlù yange ke malamu.  Meu céu é maravilhoso.",
+        "explicacao": "Céu",
+        "id": 283,
+        "idioma": "Kikongo",
+        "palavra": "Zúlù [zúlù]"
+    },
+    {
+        "exemplo_uso": "Mukuetu kámbà yange.  Meu amigo íntimo me ama.",
+        "explicacao": "Amigo íntimo",
+        "id": 284,
+        "idioma": "Nganguela",
+        "palavra": "Kámbà [kámbà]"
+    },
+    {
+        "exemplo_uso": "Mùkuétù wane wakalula.  Meu irmão me guia.",
+        "explicacao": "Amigo generalizado/irmão",
+        "id": 285,
+        "idioma": "Nganguela",
+        "palavra": "Mùkuétù [mùkué-tu]"
+    },
+    {
+        "exemplo_uso": "Embimbiliya yange yisaka.  A Bíblia me sustenta.",
+        "explicacao": "Bíblia",
+        "id": 286,
+        "idioma": "Nganguela",
+        "palavra": "Émbìmbìlíyà [émbìmbìlíyà]"
+    },
+    {
+        "exemplo_uso": "Diulu ya ngoya yileka.  O céu me acalma.",
+        "explicacao": "Céu",
+        "id": 287,
+        "idioma": "Nganguela",
+        "palavra": "Diúlù [diúlù]"
+    },
+    {
+        "exemplo_uso": "Ame nda pandula Suku kwange.  Obrigado, meu Deus.",
+        "explicacao": "Obrigado (singular)",
+        "id": 288,
+        "idioma": "Umbundu",
+        "palavra": "Ame nda pandula [ámè ndá pàndúlà]"
+    },
+    {
+        "exemplo_uso": "Etu tua pandula vatwidi.  Obrigados, irmãos.",
+        "explicacao": "Obrigado (plural)",
+        "id": 289,
+        "idioma": "Umbundu",
+        "palavra": "Etu tua pandula [étù tuá pàndúlà]"
+    },
+    {
+        "exemplo_uso": "Eme nga sakidila bwetu.  Obrigado, meus amigos.",
+        "explicacao": "Obrigado (singular)",
+        "id": 290,
+        "idioma": "Kimbundu",
+        "palavra": "Eme nga sakidila [émè ngá sàkìdílà]"
+    },
+    {
+        "exemplo_uso": "Etu tu sakidila beno.  Obrigados, vocês todos.",
+        "explicacao": "Obrigado (plural)",
+        "id": 291,
+        "idioma": "Kimbundu",
+        "palavra": "Etu tu sakidila [étù tú sàkìdílà]"
+    },
+    {
+        "exemplo_uso": "Mono ngui ntondele Suku.  Eu te agradeço, Senhor.",
+        "explicacao": "Eu agradeço (variante)",
+        "id": 292,
+        "idioma": "Kimbundu",
+        "palavra": "Mono ngui ntondele [mónò nguí `ntóndèlè]"
+    },
+    {
+        "exemplo_uso": "Yeto tuntondele kamera.  Nós te agradecemos, Pastores.",
+        "explicacao": "Agradecemos (variante)",
+        "id": 293,
+        "idioma": "Kimbundu",
+        "palavra": "Yeto tuntondele [iétò tú `ntóndèlè]"
+    },
+    {
+        "exemplo_uso": "Avoyo! Tu oku lomba Suku kwange.  Atenção! Vamos louvar o nosso Deus.",
+        "explicacao": "Interjeição de enfatização, aviso ou chamada de atenção",
+        "id": 294,
+        "idioma": "Umbundu",
+        "palavra": "Avoyo! [àvó-yò]"
+    },
+    {
+        "exemplo_uso": "Diyo! Moná kisalu.  Ora! Veja o trabalho.",
+        "explicacao": "Interjeição de surpresa/exaltação",
+        "id": 295,
+        "idioma": "Kikongo",
+        "palavra": "Diyo! [dí:yò]"
+    },
+    {
+        "exemplo_uso": "E! Omukaya yakwe welela?  Ei! Sua criança está bem?",
+        "explicacao": "Interjeição de admiração",
+        "id": 296,
+        "idioma": "Kikongo",
+        "palavra": "E [é]"
+    },
+    {
+        "exemplo_uso": "E! Omukaya yakwe welela?  Ei! Sua criança está bem?",
+        "explicacao": "Interjeição de admiração",
+        "id": 297,
+        "idioma": "Nganguela",
+        "palavra": "E [é]"
+    },
+    {
+        "exemplo_uso": "E! Omukaya yakwe welela?  Ei! Sua criança está bem?",
+        "explicacao": "Interjeição de admiração",
+        "id": 298,
+        "idioma": "Umbundu",
+        "palavra": "E [é]"
+    },
+    {
+        "exemplo_uso": "E! Omukaya yakwe welela?  Ei! Sua criança está bem?",
+        "explicacao": "Interjeição de admiração",
+        "id": 299,
+        "idioma": "Kimbundu",
+        "palavra": "E [é]"
+    },
+    {
+        "exemplo_uso": "We! Weza mu Ekongelo?  Ai! Você veio à igreja?",
+        "explicacao": "Interjeição de pesar/arrependimento",
+        "id": 300,
+        "idioma": "Kikongo",
+        "palavra": "We [ué]"
+    },
+    {
+        "exemplo_uso": "We! Weza mu Ekongelo?  Ai! Você veio à igreja?",
+        "explicacao": "Interjeição de pesar/arrependimento",
+        "id": 301,
+        "idioma": "Nganguela",
+        "palavra": "We [ué]"
+    },
+    {
+        "exemplo_uso": "We! Weza mu Ekongelo?  Ai! Você veio à igreja?",
+        "explicacao": "Interjeição de pesar/arrependimento",
+        "id": 302,
+        "idioma": "Umbundu",
+        "palavra": "We [ué]"
+    },
+    {
+        "exemplo_uso": "We! Weza mu Ekongelo?  Ai! Você veio à igreja?",
+        "explicacao": "Interjeição de pesar/arrependimento",
+        "id": 303,
+        "idioma": "Kimbundu",
+        "palavra": "We [ué]"
+    }
+]

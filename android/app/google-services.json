@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882774728141",
+    "project_id": "harpacristaangolana-95cfd",
+    "storage_bucket": "harpacristaangolana-95cfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882774728141:android:e002bc4d687c653f4cf884",
+        "android_client_info": {
+          "package_name": "com.nelson.harpa_crista_angolana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiPYVwC8wL_R_8mTvEHeVeFNv87MOatcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
