@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:just_audio_background/just_audio_background.dart';
@@ -10,12 +11,14 @@ import 'presentation/screens/main_screen.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // Inicializa o Just Audio Background
-  await JustAudioBackground.init(
-    androidNotificationChannelId: 'com.nelson.harpa_crista_angolana.channel.audio',
-    androidNotificationChannelName: 'Reprodução de Áudio',
-    androidNotificationOngoing: true,
-  );
+  // Inicializa o Just Audio Background apenas se NÃO for Web
+  if (!kIsWeb) {
+    await JustAudioBackground.init(
+      androidNotificationChannelId: 'com.nelson.harpa_crista_angolana.channel.audio',
+      androidNotificationChannelName: 'Reprodução de Áudio',
+      androidNotificationOngoing: true,
+    );
+  }
 
   // Inicializa o SharedPreferences
   final sharedPrefs = await SharedPreferences.getInstance();
